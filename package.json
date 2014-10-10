@@ -1,0 +1,24 @@
+{
+  "name": "grunt-svg-inline-sprite",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"next time\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mitasovr/grunt-svg-inline-sprite.git"
+  },
+  "keywords": [
+    "grunt",
+    "svg",
+    "sprite"
+  ],
+  "author": "Roman Mitasov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mitasovr/grunt-svg-inline-sprite/issues"
+  },
+  "homepage": "https://github.com/mitasovr/grunt-svg-inline-sprite"
+}

@@ -1,0 +1,36 @@
+{
+  "latedef": false,
+  "nonew": false,
+  "funcscope": true,
+  "lastsemic": true,
+  "loopfunc": true,
+  "sub": true,
+  "browser": true,
+  "jquery": true,
+
+  "boss": true,
+  "curly": true,
+  "eqeqeq": false,
+  "eqnull": true,
+  "expr": true,
+  "immed": true,
+  "noarg": true,
+  "onevar": false,
+  "smarttabs": true,
+  "trailing": true,
+  "undef": true,
+  "unused": true,
+  "asi": true,
+  "globals": {
+    "define": false,
+    "console": false,
+    "require": false,
+    "requirejs": false,
+    "global": false,
+    "__dirname": false,
+    "process": false,
+    "Buffer": false,
+    "module": false,
+    "Raven": false
+  }
+}
